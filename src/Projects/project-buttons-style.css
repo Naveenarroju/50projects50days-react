@@ -1,0 +1,18 @@
+
+
+
+.project-buttons-container{
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    height: 90vh;
+    width: 100vw;
+    margin:20px;
+}
+
+button{
+    height: 50px;
+    width: 150px;
+    margin:20px;
+    border-radius: 20px;
+}

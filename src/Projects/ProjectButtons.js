@@ -10,6 +10,15 @@ const ProjectButtons = () => {
       <button>
       <Link to="/progress_bar">
       Progress Bar </Link></button>
+      <button>
+      <Link to="/Blur_Effect">
+        Blur Effect </Link></button>
+      <button>
+      <Link to="/Hidding_search">
+      Hidding_search </Link></button>
+      <button>
+      <Link to="/rotating_nav">
+      rotating_nav </Link></button>
     </div>
   );
 }
